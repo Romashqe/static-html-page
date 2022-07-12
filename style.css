@@ -1,0 +1,79 @@
+body {
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/images1/Graffiti-Black-Desktop-Backgrounds-620x388.jpg");
+  background-repeat: repeat;
+  background-size: contain;
+  background-color: white;
+  margin: 0;
+  padding: 0px;
+}
+header {
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+  color: #08151d;
+}
+#title {
+  margin-top: 10%;
+  margin-bottom: 0;
+  height: 50px;
+  font-size: 3em;
+}
+#img-div {
+  padding: 20px;
+  margin-top: 20px;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px -5px 25px 16px black;
+}
+#img-caption {
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+  color: #bb6730;
+  font-size: 1em;
+  background-color: black;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-style: solid;
+  border-radius: 10px;
+}
+.info {
+  max-width: 100%;
+  height: auto;
+  font-family: "Permanent Marker", sans-serif;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7170199.jpg&f=1&nofb=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #15e2e5;
+  background-color: black;
+  background-position: center center;
+  margin: 70px;
+  padding-left: 2%;
+  padding-right: 58%;
+}
+
+.FirstList {
+  width: 800px;
+}
+
+.SecondList {
+  width: 750px;
+}
+a {
+  text-decoration: none;
+  color: #0638f9;
+}
+blockquote {
+  width: 700px;
+  color: orange;
+  border-radius: 10px;
+}
+footer {
+  font-family: "Permanent Marker", sans-serif;
+  position: relative;
+  text-align: center;
+  bottom: 2em;
+}
